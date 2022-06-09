@@ -7,7 +7,7 @@ COMO JUGAR QUAKE EN DEBIAN
 4) sudo apt-get install quake
 5) sudo mkdir /usr/share/games/quake/id1
 6) cd /home/Usuario/Descargas
-7) Una vez descargados los archivos .pak, introduce:
+7) Descargar pak0 desde está pagina y pak1 desde: https://github.com/rictorres/quake-ktx-server/blob/master/id1/pak1.pak
 8) mv pak0.pak /usr/share/games/quake/id1
 9) mv pak1.pak /usr/share/games/quake/id1
 10) El juego está listo y preparado para ser jugado.
